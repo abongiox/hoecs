@@ -1,8 +1,8 @@
  The Fortram module "hoecs.f90" can be used to calculate via 
  a DFT approach the nonlinear elastic constants of a solid 
- material. The method implemented in this module allow to 
- calculate elastic constants up to 8th order of a solid 
- material of arbitrary symmetry.  
+ material. The method implemented in this module allows to 
+ calculate elastic constants up to 8th order of any solid 
+ material, regardless of its symmetry.  
 
  Compilation of this Fortran module requires a standard 
  fortran compiler and the BLAS and LAPACK libraries (see 
